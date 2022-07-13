@@ -30,7 +30,7 @@ public String[] CODES =
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 
-Currently trying to improve this skills: NextJS, Django and React Native.<br />
+Currently trying to improve <em>ALL<em> skills<br />
 <a href="https://media.giphy.com/media/uLvn7Y1brTPzAikswI/giphy.gif" target="_blank"><img src="https://media.giphy.com/media/uLvn7Y1brTPzAikswI/giphy.gif" alt="LOL" width="280" ></a>
 
 ### I trie to teach too :technologist:

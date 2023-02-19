@@ -47,7 +47,7 @@ Currently trying to improve <em>ALL<em> skills<br />
 
 📈 My GitHub Stats - Still in work...
 
-<p align="right"> <img src="https://github-readme-stats.vercel.app/api?username=RaphaelMSJ&show_icons=true&theme=default" alt="RaphaelMSJ" />
+<p align="right"> <img src="https://github-readme-stats.vercel.app/api?username=Hargenx&show_icons=true&theme=dark" alt="Raphael" />
 
 
 

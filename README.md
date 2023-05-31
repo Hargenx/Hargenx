@@ -57,7 +57,7 @@ Currently trying to improve <em>ALL<em> skills<br />
 📈 My GitHub Stats - Still in work...
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/raphaelHargen"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="raphaelHargen" /></a><a href="https://ko-fi.com/raphaelmauricio"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="raphaelmauricio" /></a></p><br><br><p align="right"> <img src="https://github-readme-stats.vercel.app/api?username=Hargenx&show_icons=true&theme=dark" alt="Raphael" />
+<p><a href="https://www.buymeacoffee.com/raphaelHargen"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="raphaelHargen" /></a><a href="https://ko-fi.com/raphaelmauricio"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="raphaelmauricio" /></a></p><br><br><p align="right"> 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hargenx&" alt="hargenx" /></p>
 

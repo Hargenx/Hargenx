@@ -61,4 +61,4 @@ Currently trying to improve <em>ALL<em> skills<br />
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hargenx&" alt="hargenx" /></p>
 
-**[raphaelMSJ.dev](https://www.raphaelMSJ.dev/)**
+**[raphaelMSJdev](https://raphaelmsjdev.wordpress.com)**

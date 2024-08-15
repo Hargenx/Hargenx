@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Raphael Mauricio Sanches de Jesus
+# 👋 Hi there, I'm Raphael
 
 Welcome to my GitHub! I'm a software developer and professor with a passion for teaching, building robust applications, and exploring new technologies. Here’s a bit more about me and my work.
 

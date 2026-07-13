@@ -30,3 +30,5 @@ I’m always open to discussing new opportunities, collaborations, or just havin
 
 - I love collecting study materials and always strive to help others with my knowledge.
 - I’m passionate about teaching and constantly seek to improve my methods to benefit my students.
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A5M2233WWY)
